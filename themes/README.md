@@ -26,7 +26,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `bear` ![bear][bear] | `solarized-dark` ![solarized-dark][solarized-dark] | `solarized-light` ![solarized-light][solarized-light] |
 | `chartreuse-dark` ![chartreuse-dark][chartreuse-dark] | `nord` ![nord][nord] | `gotham` ![gotham][gotham] |
 | `material-palenight` ![material-palenight][material-palenight] | `graywhite` ![graywhite][graywhite] | `vision-friendly-dark` ![vision-friendly-dark][vision-friendly-dark] |
-| `vue-dark` ![vue-dark][vue-dark] | `ayu-mirage` ![ayu-mirage][ayu-mirage] | `calm` ![calm][calm] |
+| `vue-dark` ![vue-dark][vue-dark] | `ayu-mirage` ![ayu-mirage][ayu-mirage] | `midnight-purple` ![midnight-purple][midnight-purple] |
+| `calm` ![calm][calm] | `omni` ![omni][omni] | `react` ![react][react] |
 | [Add your theme][add-theme] | | |
 
 ## Repo Card
@@ -45,7 +46,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `bear` ![bear][bear_repo] | `solarized-dark` ![solarized-dark][solarized-dark_repo] | `solarized-light` ![solarized-light][solarized-light_repo] |
 | `chartreuse-dark` ![chartreuse-dark][chartreuse-dark_repo] | `nord` ![nord][nord_repo] | `gotham` ![gotham][gotham_repo] |
 | `material-palenight` ![material-palenight][material-palenight_repo] | `graywhite` ![graywhite][graywhite_repo] | `vision-friendly-dark` ![vision-friendly-dark][vision-friendly-dark_repo] |
-| `vue-dark` ![vue-dark][vue-dark_repo] | `ayu-mirage` ![ayu-mirage][ayu-mirage_repo] | `calm` ![calm][calm_repo] |
+| `vue-dark` ![vue-dark][vue-dark_repo] | `ayu-mirage` ![ayu-mirage][ayu-mirage_repo] | `midnight-purple` ![midnight-purple][midnight-purple_repo] |
+| `calm` ![calm][calm_repo] | `omni` ![omni][omni_repo] | `react` ![react][react_repo] |
 | [Add your theme][add-theme] | | |
 
 
@@ -82,7 +84,10 @@ Use `?theme=THEME_NAME` parameter like so :-
 [vision-friendly-dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark
 [vue-dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark
 [ayu-mirage]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ayu-mirage
+[midnight-purple]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple
 [calm]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm
+[omni]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni
+[react]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react
 
 
 [default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -118,7 +123,10 @@ Use `?theme=THEME_NAME` parameter like so :-
 [vision-friendly-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=vision-friendly-dark
 [vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=vue-dark
 [ayu-mirage_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ayu-mirage
+[midnight-purple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=midnight-purple
 [calm_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=calm
+[omni_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=omni
+[react_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=react
 
 
 [add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
